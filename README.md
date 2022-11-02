@@ -20,7 +20,8 @@ python3 -m flask run --host=0.0.0.0 -p 3000
 ### Clone
 
 ```bash
-git clone https://gitlab.com/fatimaarafa.1/backend_quiz.git
+all rights reserved to fatima arafa
+git clone https://github.com/BasicHealin/quiz_python.git
 ```
 
 ### Compile , Build
