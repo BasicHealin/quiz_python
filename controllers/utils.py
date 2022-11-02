@@ -1,0 +1,1 @@
+categories=['Scrum','Design thinking', 'Transformation digitale']
