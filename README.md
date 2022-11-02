@@ -37,6 +37,4 @@ pip3 install -r requirements.txt
 
 # Production
 
-```jsx
- open **config.py** and change the db url
-```
+-> open **config.py** and change the db url
